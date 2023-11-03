@@ -59,7 +59,21 @@ A few important points to note:
 - You use this script at your own risk. The developer takes no responsibility for any damage or adverse effects caused by the use of this script.
 - The script is simple and may have bugs. 
 
-## 6. Credits
+## 6. Troubleshooting on MacOSX
+
+Please be aware that MacOSX's security system might restrict the script's access to audio devices. If you encounter any issues, follow these steps to grant the necessary permissions:
+
+1. Open your System Settings.
+
+2. Navigate to **Privacy & Security**.
+
+3. Choose **Microphone** from the left-hand menu.
+
+4. Locate **Terminal** in the list of applications and ensure it's turned on. This grants the script permission to access your microphone.
+
+With these settings adjusted, your script should function as expected without any interruptions.
+
+## 7. Credits
 
 This README and the script were generated with the assistance of ChatGPT3.5 (free version). Kudos to the AI wizardry behind it for making this project possible!
 
