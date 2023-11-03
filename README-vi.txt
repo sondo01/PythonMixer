@@ -1,4 +1,4 @@
-# PythonMixer
+# PythonMixer 
 # Script Ghi Âm và Phát Lại Âm Thanh
 
 ## 1. Đó là gì?
